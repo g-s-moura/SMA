@@ -1,0 +1,35 @@
+RESULTADOS DA SIMULAÇÃO
+Tempo Global de Simulação: 50576.6880
+Números Aleatórios Utilizados: 100000
+Total de Clientes Perdidos: 11617
+
+Resultado da fila Q1
+Clientes Perdidos na fila Q1: 0
+ 0 clientes: Tempo = 20235.4437 | Prob = 40.0094%
+ 1 clientes: Tempo = 26501.6169 | Prob = 52.3989%
+ 2 clientes: Tempo = 3676.5008 | Prob = 7.2692%
+ 3 clientes: Tempo = 162.1711 | Prob = 0.3206%
+ 4 clientes: Tempo = 0.9557 | Prob = 0.0019%
+
+Resultado da fila Q2
+Clientes Perdidos na fila Q2: 6
+ 0 clientes: Tempo = 12080.7354 | Prob = 23.8860%
+ 1 clientes: Tempo = 20801.7988 | Prob = 41.1292%
+ 2 clientes: Tempo = 12992.3307 | Prob = 25.6884%
+ 3 clientes: Tempo = 3960.0811 | Prob = 7.8299%
+ 4 clientes: Tempo = 667.3648 | Prob = 1.3195%
+ 5 clientes: Tempo = 74.3772 | Prob = 0.1471%
+
+Resultado da fila Q3
+Clientes Perdidos na fila Q3: 11611
+ 0 clientes: Tempo = 3.3693 | Prob = 0.0067%
+ 1 clientes: Tempo = 4.0825 | Prob = 0.0081%
+ 2 clientes: Tempo = 8.5445 | Prob = 0.0169%
+ 3 clientes: Tempo = 4.8142 | Prob = 0.0095%
+ 4 clientes: Tempo = 5.0593 | Prob = 0.0100%
+ 5 clientes: Tempo = 7.0055 | Prob = 0.0139%
+ 6 clientes: Tempo = 8.5043 | Prob = 0.0168%
+ 7 clientes: Tempo = 51.2298 | Prob = 0.1013%
+ 8 clientes: Tempo = 2835.0998 | Prob = 5.6055%
+ 9 clientes: Tempo = 15804.8053 | Prob = 31.2492%
+10 clientes: Tempo = 31844.1736 | Prob = 62.9622%
